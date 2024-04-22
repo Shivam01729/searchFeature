@@ -8,7 +8,7 @@ const mongoose=require("mongoose")
 //     console.log('failed');
 // })
 
-mongoose.connect('mongodb+srv://shashankkrpandey123:a9yDfOJwsu0euCYt@cluster0.qbhmqbs.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
+mongoose.connect('mongodb+srv://shivamsingh97719:12345@cluster0.v1dzzn4.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0');
 
 const songsSchema=new mongoose.Schema({
     name:{
